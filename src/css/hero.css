@@ -146,7 +146,7 @@
 
 @media screen and (min-width: 1440px) {
   .hero-container {
-    padding-top: 0;
+    padding-top: 0px;
     align-items: center;
     height: 530px;
     width: 1320px;
